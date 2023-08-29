@@ -1,4 +1,4 @@
-Linebot + Heroku Server Deployment Example
+Linebot + Heroku Server Deployment
 ===
 
 - targets: Making Linebot deploying on a Heroku server.
