@@ -42,7 +42,7 @@ Django Project Settings
     ```
 
 3. Create a `Procfile` for the project
-- NOTICE: **utf-8 encoding** is necessaryfor this file.
+- NOTICE: **utf-8 encoding** is necessary for this file.
 
     ```bash
     echo "web: gunicorn {project_name}.wsgi" >> Procfile
